@@ -1,3 +1,10 @@
 jupyter-book
 matplotlib
 numpy
+scipy
+pandas
+yfinance
+scikit-learn
+sktime
+fastparquet
+pyarrow
